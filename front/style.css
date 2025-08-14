@@ -1,0 +1,20 @@
+
+body {
+    background: linear-gradient(135deg, #e6f5ec, #ffffff);
+    font-family: Arial, sans-serif;
+}
+
+h1, h2 {
+    color: #2e7d32;
+}
+
+.stButton>button {
+    background-color: #2e7d32;
+    color: white;
+    border-radius: 5px;
+    padding: 8px 16px;
+}
+
+.stSelectbox, .stTextArea {
+    border-radius: 5px;
+}
